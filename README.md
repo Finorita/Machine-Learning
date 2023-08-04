@@ -6,10 +6,10 @@
 ### [股票收益预测模型](https://github.com/Finorita/Machine-Learning/blob/main/%E8%82%A1%E7%A5%A8%E9%A2%84%E6%B5%8B%E6%A8%A1%E5%9E%8B.ipynb)  
    简介：使用各种监督学习模型来预测PRT的股价并比较它们的差异。
 ### [使用集成学习在iris集合上进行分类](https://github.com/Finorita/Machine-Learning/blob/main/iris%26%E9%9B%86%E6%88%90%E5%AD%A6%E4%B9%A0.ipynb)
-    简介：使用各种集成学习模型来预测iris的种类并比较模型之间的差异。
+   简介：使用各种集成学习模型来预测iris的种类并比较模型之间的差异。
 
 ### [使用聚类算法进行红酒分类](https://github.com/Finorita/Machine-Learning/blob/main/%E6%97%A0%E7%9B%91%E7%9D%A3-%E7%BA%A2%E9%85%92%E5%88%86%E7%B1%BB.ipynb)
-    简介：使用各种聚类算法模型来预测wine的种类并比较模型之间的差异。
+   简介：使用各种聚类算法模型来预测wine的种类并比较模型之间的差异。
 
 ### [使用决策树预测毒蘑菇](https://github.com/Finorita/Machine-Learning/blob/main/%E6%AF%92%E8%98%91%E8%8F%87%E9%A2%84%E6%B5%8B%E6%A8%A1%E5%9E%8B.ipynb)
    简介：使用决策树模型来预测毒蘑菇。
